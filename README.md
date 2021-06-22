@@ -1,1 +1,1 @@
-# my-own-game
+# supar-mario
